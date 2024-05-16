@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         // teste
         // teste 2
+        // teste 3
         public static void Main(string[] args)
         {
             Console.WriteLine("Teste");
